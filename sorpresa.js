@@ -1,4 +1,4 @@
-const questionText = "Mi café favorito siempre será el de tus ojos, ¿te gustaría salir conmigo?💘";
+const questionText = "¿Te gustaría salir conmigo?💘";
 const questionElement = document.getElementById("question");
 const yesBtn = document.getElementById("yesBtn");
 const noBtn = document.getElementById("noBtn");
